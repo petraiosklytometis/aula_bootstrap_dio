@@ -1,0 +1,22 @@
+/* Aula Bootstrap DIO */
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #80ac53;
+}
+
+.quem-somos {
+    background-color: rgb(105, 137, 207);
+    color: white;
+}
+
+.margin { 
+    padding-bottom: 50px;
+    padding-top: 10px;
+    }
+
+.parceiros {
+    background-color: #dd6249;
+}
